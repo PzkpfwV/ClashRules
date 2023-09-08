@@ -1,0 +1,7 @@
+# Custom websites
+payload:
+  - DOMAIN,fast.lycorisrecoil.org,PROXY
+  - DOMAIN,cdn.staticfile.org,PROXY
+  - DOMAIN-SUFFIX,管人痴.com,PROXY
+  - DOMAIN-SUFFIX,xn--gmq396grzd.com,PROXY
+  
