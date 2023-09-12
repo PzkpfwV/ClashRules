@@ -1,4 +1,5 @@
 # OneDrive
+payload:
  - PROCESS-NAME,OneDrive
  - PROCESS-NAME,OneDriveUpdater
  - DOMAIN-KEYWORD,1drv
