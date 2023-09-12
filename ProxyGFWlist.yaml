@@ -1,7 +1,6 @@
 # 代理列表
-payload:
- - 
 # MyList && Other
+payload:
  - DOMAIN-SUFFIX,1password.com
  - DOMAIN-SUFFIX,adguard.org
  - DOMAIN-SUFFIX,bit.no.com
@@ -25,7 +24,6 @@ payload:
  - DOMAIN-SUFFIX,tumbex.com
  - DOMAIN-SUFFIX,twdvd.com
  - DOMAIN-SUFFIX,unsplash.com
- - 
 # 国外域名
  - DOMAIN-SUFFIX,eu
  - DOMAIN-SUFFIX,hk
@@ -36,7 +34,6 @@ payload:
  - DOMAIN-SUFFIX,uk
  - DOMAIN-SUFFIX,us
  - DOMAIN-SUFFIX,ca
- - 
 # 国外域名关键字
  - DOMAIN-KEYWORD,1e100
  - DOMAIN-KEYWORD,abema
@@ -58,7 +55,6 @@ payload:
  - DOMAIN-KEYWORD,twitter
  - DOMAIN-KEYWORD,whatsapp
  - DOMAIN-KEYWORD,youtube
- - 
 # GFW list
  - DOMAIN-SUFFIX,gfwlist.start
  - DOMAIN-SUFFIX,000webhost.com
@@ -5992,7 +5988,6 @@ payload:
  - DOMAIN-SUFFIX,zzcloud.me
  - DOMAIN-SUFFIX,zzux.com
  - DOMAIN-SUFFIX,gfwlist.end
- - 
 # Amazon
  - DOMAIN-SUFFIX,amazon.co.jp
  - DOMAIN-SUFFIX,amazon.com
@@ -6012,12 +6007,10 @@ payload:
  - IP-CIDR,54.156.0.0/14,no-resolve
  - IP-CIDR,54.226.0.0/15,no-resolve
  - IP-CIDR,54.230.156.0/22,no-resolve
- - 
 # BBC
  - DOMAIN-KEYWORD,uk-live
  - DOMAIN-SUFFIX,bbc.co
  - DOMAIN-SUFFIX,bbc.com
- - 
 # Developer 开发者常用国外网站、镜像和论坛
  - DOMAIN-SUFFIX,apache.org
  - DOMAIN-SUFFIX,docker.com
@@ -6038,7 +6031,6 @@ payload:
  - DOMAIN-SUFFIX,spring.io
  - DOMAIN-SUFFIX,spring.net
  - DOMAIN-SUFFIX,stackoverflow.com
- - 
 # Discord
  - DOMAIN-SUFFIX,discord.co
  - DOMAIN-SUFFIX,discord.com
@@ -6046,7 +6038,6 @@ payload:
  - DOMAIN-SUFFIX,discord.media
  - DOMAIN-SUFFIX,discordapp.com
  - DOMAIN-SUFFIX,discordapp.net
- - 
 # Facebook
  - DOMAIN-SUFFIX,facebook.com
  - DOMAIN-SUFFIX,fb.com
@@ -6067,14 +6058,12 @@ payload:
  - IP-CIDR,179.60.192.0/22,no-resolve
  - IP-CIDR,185.60.216.0/22,no-resolve
  - IP-CIDR,204.15.20.0/22,no-resolve
- - 
 # Github
  - DOMAIN-SUFFIX,github.com
  - DOMAIN-SUFFIX,github.io
  - DOMAIN-SUFFIX,githubapp.com
  - DOMAIN-SUFFIX,githubassets.com
  - DOMAIN-SUFFIX,githubusercontent.com
- - 
 # Google
  - DOMAIN-SUFFIX,1e100.net
  - DOMAIN-SUFFIX,2mdn.net
@@ -6098,7 +6087,6 @@ payload:
  - DOMAIN-SUFFIX,ytimg.com
  - IP-CIDR,74.125.0.0/16,no-resolve
  - IP-CIDR,173.194.0.0/16,no-resolve
- - 
 # GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
  - IP-CIDR,120.232.181.162/32,no-resolve
  - IP-CIDR,120.241.147.226/32,no-resolve
@@ -6118,12 +6106,10 @@ payload:
  - IP-CIDR,220.181.174.162/32,no-resolve
  - IP-CIDR,220.181.174.226/32,no-resolve
  - IP-CIDR,220.181.174.34/32,no-resolve
- - 
 # Instagram
  - DOMAIN-SUFFIX,cdninstagram.com
  - DOMAIN-SUFFIX,instagram.com
  - DOMAIN-SUFFIX,instagr.am
- - 
 # Kakao Talk
  - DOMAIN-SUFFIX,kakao.com
  - DOMAIN-SUFFIX,kakao.co.kr
@@ -6134,7 +6120,6 @@ payload:
  - IP-CIDR,103.246.56.0/22,no-resolve
  - IP-CIDR,110.76.140.0/22,no-resolve
  - IP-CIDR,113.61.104.0/22,no-resolve
- - 
 # Line
  - DOMAIN-SUFFIX,lin.ee
  - DOMAIN-SUFFIX,line-apps.com
@@ -6151,11 +6136,9 @@ payload:
  - IP-CIDR,119.235.236.0/23,no-resolve
  - IP-CIDR,147.92.128.0/17,no-resolve
  - IP-CIDR,203.104.128.0/19,no-resolve
- - 
 # Oracle Cloud
  - DOMAIN,cloud.oracle.com
  - DOMAIN-SUFFIX,oraclecloud.com
- - 
 # OneDrive
  - DOMAIN-KEYWORD,1drv
  - DOMAIN-KEYWORD,onedrive
@@ -6170,7 +6153,6 @@ payload:
  - DOMAIN-SUFFIX,storage.live.com
  - DOMAIN-SUFFIX,storage.msn.com
 #DOMAIN-SUFFIX,aria.microsoft.com
- - 
 # Porn
  - DOMAIN-KEYWORD,porn
  - DOMAIN-SUFFIX,8teenxxx.com
@@ -6195,18 +6177,15 @@ payload:
  - DOMAIN-SUFFIX,xvideos-cdn.com
  - DOMAIN-SUFFIX,xvideos.com
  - DOMAIN-SUFFIX,ypncdn.com
- - 
 # Pixiv
  - DOMAIN-SUFFIX,pixiv.net
  - DOMAIN-SUFFIX,pximg.net
- - 
 # Spark
  - DOMAIN-SUFFIX,amplitude.com
  - DOMAIN-SUFFIX,firebaseio.com
  - DOMAIN-SUFFIX,hockeyapp.net
  - DOMAIN-SUFFIX,readdle.com
  - DOMAIN-SUFFIX,smartmailcloud.com
- - 
 # Steam
  - DOMAIN-SUFFIX,fanatical.com
  - DOMAIN-SUFFIX,humblebundle.com
@@ -6226,23 +6205,19 @@ payload:
  - DOMAIN,steamusercontent-a.akamaihd.net
  - DOMAIN,steamuserimages-a.akamaihd.net
  - DOMAIN,steampipe.akamaized.net
- - 
 # TapTap
  - DOMAIN-SUFFIX,tap.io
  - DOMAIN-SUFFIX,taptap.tw
- - 
 # Twitch
  - DOMAIN-SUFFIX,twitch.tv
  - DOMAIN-SUFFIX,ttvnw.net
  - DOMAIN-SUFFIX,jtvnw.net
  - DOMAIN-KEYWORD,ttvnw
- - 
 # Twitter
  - DOMAIN-SUFFIX,t.co
  - DOMAIN-SUFFIX,twimg.co
  - DOMAIN-SUFFIX,twimg.com
  - DOMAIN-SUFFIX,twimg.org
- - 
 # Telegram
  - DOMAIN-SUFFIX,t.me
  - DOMAIN-SUFFIX,tdesktop.com
@@ -6256,11 +6231,9 @@ payload:
  - IP-CIDR6,2001:67c:4e8::/48,no-resolve
  - IP-CIDR6,2001:b28:f23d::/48,no-resolve
  - IP-CIDR6,2001:b28:f23f::/48,no-resolve
- - 
 # TeraBox
  - DOMAIN-SUFFIX,terabox.com
  - DOMAIN-SUFFIX,teraboxcdn.com
- - 
 # Whatsapp
  - IP-CIDR,18.194.0.0/15,no-resolve
  - IP-CIDR,34.224.0.0/12,no-resolve
@@ -6277,7 +6250,6 @@ payload:
  - IP-CIDR,158.85.224.160/27,no-resolve
  - IP-CIDR,75.126.150.0/16,no-resolve
  - IP-CIDR,69.171.235.0/16,no-resolve
- - 
 # Wikipedia 维基相关域名
  - DOMAIN-SUFFIX,mediawiki.org
  - DOMAIN-SUFFIX,wikibooks.org
@@ -6291,15 +6263,12 @@ payload:
  - DOMAIN-SUFFIX,wikiversity.org
  - DOMAIN-SUFFIX,wikivoyage.org
  - DOMAIN-SUFFIX,wiktionary.org
- - 
 #飞流直播
  - DOMAIN-SUFFIX,neulion.com
  - DOMAIN-SUFFIX,icntv.xyz
  - DOMAIN-SUFFIX,flzbcdn.xyz
- - 
 #华文电视
  - DOMAIN-SUFFIX,ocnttv.com
- - 
 # VikACG
  - DOMAIN-SUFFIX,vikacg.com
  - DOMAIN-SUFFIX,picjs.xyz
