@@ -1,0 +1,4 @@
+MyConfig*.yaml
+*.list
+*.ps1
+/providers
